@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/arcade-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/arcade-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/arcade2-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/arcade2-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bedwars-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bedwars-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cops-and-crims-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cops-and-crims-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-engine-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-engine-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/the-lab-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/the-lab-api/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
