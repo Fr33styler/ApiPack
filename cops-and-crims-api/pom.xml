@@ -6,7 +6,7 @@
     <parent>
         <groupId>ro.fr33styler.minecraft</groupId>
         <artifactId>ApiPack</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>cops-and-crims-api</artifactId>
