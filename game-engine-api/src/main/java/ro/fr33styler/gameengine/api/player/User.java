@@ -22,10 +22,18 @@ public interface User {
     @Nullable
     Party getParty();
 
+    void sendMessage(String message);
+
+    void sendActionBar(String message);
+
+    void sendHeaderAndFooter(@Nullable String header, @Nullable String footer);
+
+    void sendTitle(@Nullable String title, @Nullable String subtitle, int fadeIn, int showFor, int fadeOut);
+
     Engine getEngine();
 
-    Player toPlayer();
-
     UUID getUUID();
+
+    Player toPlayer();
 
 }

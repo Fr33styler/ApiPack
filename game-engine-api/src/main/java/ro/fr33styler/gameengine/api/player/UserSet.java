@@ -13,7 +13,7 @@ public interface UserSet {
     boolean contains(Player player);
 
     @Nullable
-    User get(@Nullable UUID uuid);
+    User get(UUID uuid);
 
     @Nullable
     User get(@Nullable Player player);
